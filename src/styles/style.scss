@@ -1,0 +1,20 @@
+.titles{
+    color: #726a95;
+    text-align: center;
+}
+.form_imput{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    .imputs_datos{
+        max-width: 350px;
+        font-size: 1rem;
+        color: #333;
+        padding: .5rem;
+    }
+}
+.text-ganancias{
+    display: flex;
+    justify-content: center;
+}
